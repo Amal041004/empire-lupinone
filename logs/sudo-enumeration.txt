@@ -1,0 +1,15 @@
+========================================
+Empire: LupinOne - Sudo Enumeration
+========================================
+
+Command:
+sudo -l
+
+Result:
+
+User icex64 may run the following commands:
+(arsene) NOPASSWD: /usr/bin/python3.9 /home/arsene/heist.py
+
+Conclusion:
+Misconfigured sudo permission identified.
+Potential privilege escalation path confirmed.
