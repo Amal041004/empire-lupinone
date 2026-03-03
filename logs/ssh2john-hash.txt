@@ -1,0 +1,8 @@
+========================================
+Empire: LupinOne - SSH Key Hash Extraction
+========================================
+
+Command:
+ssh2john ssh_key.rsa > hash
+
+Hash successfully extracted from SSH private key.
