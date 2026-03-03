@@ -1,0 +1,14 @@
+========================================
+Empire: LupinOne - Password Cracking
+========================================
+
+Command:
+john --wordlist=/usr/share/wordlists/fasttrack.txt hash
+
+Result:
+ssh_key.rsa:Pa55w0rd!
+
+1 password hash cracked, 0 left
+
+Conclusion:
+SSH key passphrase successfully recovered.
