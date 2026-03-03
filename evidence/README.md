@@ -56,8 +56,8 @@ All activities were conducted in a controlled lab environment for academic and l
 | Step | Description | Screenshot |
 |------|------------|------------|
 | 18 | Sudo enumeration (icex64) | 18-sudo-enumeration-icex64.png |
-| 19 | LinPEAS download | 20-linpeas-download.png |
-| 20 | LinPEAS execution results | 21-linpeas-execution.png |
+| 19 | LinPEAS download | 19-linpeas-download.png |
+| 20 | LinPEAS execution results | 20-linpeas-execution.png |
 
 
 ---
@@ -66,8 +66,8 @@ All activities were conducted in a controlled lab environment for academic and l
 
 | Step | Description | Screenshot |
 |------|------------|------------|
-| 21 | Root shell obtained | 28-root-shell-obtained.png |
-| 22 | Root flag retrieved | 29-root-flag.png |
+| 21 | Root shell obtained | 21-root-shell-obtained.png |
+| 22 | Root flag retrieved | 22-root-flag.png |
 
 ---
 
