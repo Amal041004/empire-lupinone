@@ -1,0 +1,25 @@
+========================================
+Empire: LupinOne - Service Enumeration
+========================================
+
+Date: 11-Mar-2026
+Target IP: 192.168.150.4
+
+Command Executed:
+nmap -sC -sV 192.168.150.4
+
+Output:
+
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.4p1 Debian
+80/tcp open  http    Apache httpd 2.4.48 (Debian)
+
+Service Info: OS: Linux
+
+Additional Findings:
+robots.txt discovered
+Disallowed entry: /~myfiles
+
+Conclusion:
+Web server and SSH service identified.
+Web application chosen as primary attack surface.
