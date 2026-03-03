@@ -1,0 +1,24 @@
+========================================
+Empire: LupinOne - Host Discovery Log
+========================================
+
+Date: 11-Mar-2026
+Attacker Machine: Kali Linux
+Network Range: 192.168.150.0/24
+
+Command Executed:
+nmap -sP 192.168.150.1/24
+
+Output:
+Starting Nmap 7.95 at 2026-03-11
+Nmap scan report for 192.168.150.1
+Host is up (0.00042s latency).
+
+Nmap scan report for 192.168.150.4
+Host is up (0.00026s latency).
+MAC Address: 08:00:27:3B:C2:63 (Oracle VirtualBox)
+
+Nmap done: 256 IP addresses (2 hosts up) scanned in 3.41 seconds
+
+Conclusion:
+Target machine identified at 192.168.150.4
