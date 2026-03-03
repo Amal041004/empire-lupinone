@@ -1,0 +1,14 @@
+========================================
+Empire: LupinOne - Directory Fuzzing (Stage 1)
+========================================
+
+Command:
+ffuf -c -u http://192.168.150.4/~FUZZ -w /usr/share/wordlists/dirb/common.txt
+
+Result:
+
+secret        [Status: 301, Size: 316]
+
+Conclusion:
+Hidden directory "secret" discovered.
+Further enumeration required.
