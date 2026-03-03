@@ -1,0 +1,16 @@
+========================================
+Empire: LupinOne - SSH Access
+========================================
+
+Command:
+ssh -i ssh_key.rsa icex64@192.168.150.4
+
+Login Successful.
+
+User:
+icex64
+
+Command:
+cat user.txt
+
+User flag successfully retrieved.
