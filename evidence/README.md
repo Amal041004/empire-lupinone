@@ -46,9 +46,8 @@ All activities were conducted in a controlled lab environment for academic and l
 
 | Step | Description | Screenshot |
 |------|------------|------------|
-| 16 | Successful SSH login | 16-ssh-login-success.png |
-| 17 | Directory listing after login | 17-user-directory-listing.png |
-| 18 | User flag retrieved | 18-user-flag.png |
+| 16 | Successful SSH login | 16-ssh-login-success & user-directory-listing.png |
+| 17 | User flag retrieved | 17-user-flag.png |
 
 ---
 
@@ -56,13 +55,10 @@ All activities were conducted in a controlled lab environment for academic and l
 
 | Step | Description | Screenshot |
 |------|------------|------------|
-| 19 | Sudo enumeration (icex64) | 19-sudo-enumeration-icex64.png |
-| 20 | heist.py script analysis | 20-heist-script-analysis.png |
-| 21 | LinPEAS download | 21-linpeas-download.png |
-| 22 | LinPEAS execution results | 22-linpeas-execution.png |
-| 23 | Checking webbrowser.py permissions | 23-webbrowser-permission-check.png |
-| 24 | Python module hijacking | 24-module-hijack-edit.png |
-| 25 | Shell obtained as arsene | 25-arsene-shell.png |
+| 18 | Sudo enumeration (icex64) | 18-sudo-enumeration-icex64.png |
+| 19 | LinPEAS download | 20-linpeas-download.png |
+| 20 | LinPEAS execution results | 21-linpeas-execution.png |
+
 
 ---
 
@@ -70,10 +66,8 @@ All activities were conducted in a controlled lab environment for academic and l
 
 | Step | Description | Screenshot |
 |------|------------|------------|
-| 26 | Sudo privileges for pip | 26-sudo-pip-permission.png |
-| 27 | Malicious setup.py created | 27-malicious-setup-created.png |
-| 28 | Root shell obtained | 28-root-shell-obtained.png |
-| 29 | Root flag retrieved | 29-root-flag.png |
+| 21 | Root shell obtained | 28-root-shell-obtained.png |
+| 22 | Root flag retrieved | 29-root-flag.png |
 
 ---
 
