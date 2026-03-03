@@ -1,0 +1,17 @@
+========================================
+Empire: LupinOne - Key Extraction & Decoding
+========================================
+
+Encoded content extracted from mysecret.txt
+
+Tool Used:
+CyberChef
+
+Operation:
+From Base58 decoding
+
+Result:
+Valid SSH private key recovered.
+
+File Created:
+ssh_key.rsa
